@@ -40,7 +40,7 @@ for i in range(1, zx+1):
         print ("*", end="")
     print ("")
 xyz = 6
-print ("*"*6)
+print ("*"*7)
 xz = 4
 while 0 < xz:
     print("*"*xz)
