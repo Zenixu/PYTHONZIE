@@ -1,0 +1,11 @@
+print("\033[91m=============================")
+print("\033[93m\033[1mMENGHITUNG RUMUS PERCEPATAN")
+print("\033[91m=============================\n")
+v1 = int(input('\033[95mmasukan nilai besaran vektor 1: '))
+v2 = int(input('masukan nilai besaran vektor 2: '))
+t1 = int(input('masukan nilai besaran jarak 1: '))
+t2 = int(input('masukan nilai besaran jarak 2: '))
+a = (v2 - v1)/(t2 - t1)
+
+print(f"jadi nilai rata rata percepatan adalah = {round (a,2)} m/s2 \n")
+print("\033[91m=============================\n")
