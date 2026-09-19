@@ -6,4 +6,4 @@ while True:
     if(nilai > 80):
         print(f"Selamat {nama}, Kamu telah Lulus dengan nilai {nilai}")
     else:
-        print(f"Yahhh {nama}, Kamu Tidak Lulus dengan nilai {nilai} di bawah KKM SI BRO\n")
+        print(f"Yahhh {nama}, Kamu Tidak Lulus dengan nilai {nilai} di bawah KKM SI BRO\n") 
